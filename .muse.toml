@@ -1,2 +1,2 @@
 build = "./gradlew assemble -xtest"
-allow = ["tommd","test4"]
+allow = ["tommd", "smagill"]
